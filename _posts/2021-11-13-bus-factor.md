@@ -1,5 +1,5 @@
 ﻿---
-title: Bus Factor 🚌
+title: Bus Factor 🚍
 ---
 
 Recently, my job lost an employee that was working on a project with me.  The work was pretty well split up - I was 
