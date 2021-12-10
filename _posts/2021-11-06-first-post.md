@@ -1,4 +1,6 @@
+---
 
+---
 
 I’ve been listening to the Working Code podcast and really liked their suggestion to learn in public and use blogging 
 as a way to remember things.  So here I am, writing a blog.

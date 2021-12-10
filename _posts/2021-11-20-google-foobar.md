@@ -26,8 +26,8 @@ along your path.  There are bajillions of articles about how to implement a shor
 change the path meant those solutions only passed some of the test cases.
 
 The problem I’m on is also familiar - *but with a twist*.  The whole thing is basically a travelling salesman problem. 
-Your goal is to visit several nodes to save bunnies - by the way, the whole Foobar challenge a bunnies-in-space theme 
-- and then reach an exit.  But,there’s a time limit!  Also, some paths *add* time to the clock rather than take it 
+Your goal is to visit several nodes to save bunnies - by the way, the whole Foobar challenge a bunnies-in-space 
+theme - and then reach an exit.  But,there’s a time limit!  Also, some paths *add* time to the clock rather than take it 
 away.  That means, unlike a traditional traveling salesman problem, you might not have enough time to reach every node 
 and you might want to revisit some routes multiple times.
 
