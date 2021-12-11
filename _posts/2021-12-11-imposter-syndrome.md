@@ -1,39 +1,39 @@
----
+Ôªø---
 
 ---
 
 In a previous post I talked about starting the Google Foobar challenge.  *Great news*: I finished all five levels, and
-thereís an email from a Google recruiter sitting in my inbox.  *Bad news*: Now I feel like a fraud.
+there‚Äôs an email from a Google recruiter sitting in my inbox.  *Bad news*: Now I feel like a fraud. üòî
 
 I have never interviewed for one of the **big** software companies.  I have, however, read a ton of people who describe
 what those interviews are like.  They talk about how they spent hundreds of hours doing coding challenges, hundreds of
-hours watching presentations about system design, and how theyíve read every book and taken every course and done
+hours watching presentations about system design, and how they‚Äôve read every book and taken every course and done
 every single thing possible to prepare - and how they failed to get the job.  I do the occasional coding challenge,
-sure.  I listen to some podcasts so I can hear other software engineersí perspectives.  But have I done that level of 
+sure.  I listen to some podcasts so I can hear other software engineers‚Äô perspectives.  But have I done that level of 
 preparation?  Not even close.
 
-So I started looking up Google interview questions and reading peopleís synopsis of how their interviews went.  After 
-20 straight posts of people talking about insanely difficult problems, I start to feel ill.  ìShould I tell the
-recruiter not to bother?  Do I even know how to program?  How did I ever even think Iíd be able to do this?î  All those
+So I started looking up Google interview questions and reading people‚Äôs synopsis of how their interviews went.  After 
+20 straight posts of people talking about insanely difficult problems, I start to feel ill.  ‚ÄúShould I tell the
+recruiter not to bother?  Do I even know how to program?  How did I ever even think I‚Äôd be able to do this?‚Äù  All those
 imposter questions come flooding in.
 
-Itís that part of the Dunning-Kruger effect that people rarely talk about.  After that initial peak where we all think
-weíre geniuses, thereís this huge valley where we realize how much we donít know.  And that can only mean one thing: I
+It‚Äôs that part of the Dunning-Kruger effect that people rarely talk about.  After that initial peak where we all think
+we‚Äôre geniuses, there‚Äôs this huge valley where we realize how much we don‚Äôt know.  And that can only mean one thing: I
 must be a fraud!  Somehow I have tricked myself, my employer, and this Google recruiter into thinking I know a lot, 
-when I probably donít even know 1% of the total software engineering topics!  Sure, I have a full time job where I
+when I probably don‚Äôt even know 1% of the total software engineering topics!  Sure, I have a full time job where I
 program things for a real business that sells that software to real customers, but how much of it did I *really* write?
-In this low point on the Dunning-Kruger model, it feels like maybe Iím just copying and pasting things from
-StackOverflow and that I donít actually know how anything works.
+In this low point on the Dunning-Kruger model, it feels like maybe I‚Äôm just copying and pasting things from
+StackOverflow and that I don‚Äôt actually know how anything works.
 
 But please, to anybody reading this: do yourself a favor and realize that **nobody** knows everything.  Our field is so
 vast and deep that if you found the single person who knows the absolute most about programming, even they probably
-donít know 1% of it all.  Look back at where you came from.  Remember when recursion blew your mind?  Or that time when
-you deleted a curly brace and spent 5 hours wondering why your code wouldnít compile?  Or that time you used `=` 
+don‚Äôt know 1% of it all.  Look back at where you came from.  Remember when recursion blew your mind?  Or that time when
+you deleted a curly brace and spent 5 hours wondering why your code wouldn‚Äôt compile?  Or that time you used `=` 
 instead of `==` and everything seemed fine until OH NO IT ALL BROKE!  But you thought you were pretty clever when you
-figured it out, didnít you?  You were a freaking genius back then.  You had finally mastered programming and nothing
+figured it out, didn‚Äôt you?  You were a freaking genius back then.  You had finally mastered programming and nothing
 could touch your level of expertise.
 
 And now you know even more.  So much more that you know how foolish you were then.  It is healthy to recognize that you
-donít know everything.  It is *not* healthy to think you ever will.  Nobody does, and nobody ever will.  The field is
+don‚Äôt know everything.  It is *not* healthy to think you ever will.  Nobody does, and nobody ever will.  The field is
 too big!  Keep learning, keep improving, and know that you are **not** an imposter.  You only think that because you 
-arenít the naive programmer you were before, and thatís a good thing!
+aren‚Äôt the naive programmer you were before, and that‚Äôs a good thing!

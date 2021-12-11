@@ -1,12 +1,12 @@
 ---
-title: "Posts as a Grid!"
+title: "Posts page!"
 
 layout: collection
-permalink: /posts-grid/
+permalink: /pagetests/posts/
 collection: portfolio
 entries_layout: grid
 classes: wide
 ---
 
 # All Posts
-Check out all my posts - but as a grid!
+Check out all my posts with *wide* format.
