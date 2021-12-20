@@ -11,6 +11,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {: .text-justify}
 
 //TODO: Insert noticeable phrase here
-{: .notice}
-
-
+{: .notice .wide}

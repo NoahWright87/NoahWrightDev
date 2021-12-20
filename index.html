@@ -1,6 +1,39 @@
 ---
-title: Noah Wright's Dev Site
-layout: home
+title: Welcome!
+layout: splash
+tagline: "I'm Noah Wright, and I'm a software engineer.  This is my little slice of the internet where I share what
+          I know, what I've done, and who I am."
+header:
+    overlay_color: "#333"
+    overlay_filter: "0.5"
+    actions:
+        - label: "<i class='fa fa-download'></i> Resume"
+          url: "/assets/files/NoahWrightResume.pdf"
+        - label: "Contact Me"
+          url: "/contact/"
+feature_blog:
+  - image_path: /assets/images/placeholder.png
+    alt: "placeholder image"
+    title: "Blog Posts"
+    excerpt: "My collection of <strike>rants</strike> thoughtful posts about life as a software engineer, lessons
+              learned, and little triumphs that I want to share with the world."
+    url: "/posts/"
+    btn_label: "View All Posts"
+    btn_class: "btn--primary"
+feature_projects:
+  - image_path: /assets/images/placeholder.png
+    alt: "placeholder image"
+    title: "Projects"
+    excerpt: "Like many software engineers, I like to relax after a hard day's work of programming by sitting down
+              and programming some more.  Here you'll find some of my side projects that I do for fun and to learn
+              new technology outside of work."
+    url: "/projects/"
+    btn_label: "View All Projects"
+    btn_class: "btn--primary"
+classes: wide
 ---
 
-Welcome to my work in progress!
+{% include feature_row id="feature_blog" type="left" %}
+
+{% include feature_row id="feature_projects" type="right" %}
+
