@@ -102,15 +102,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Noah"
-  avatar           : "" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Noah W."
+  avatar           : "/assets/images/noahwright-sm.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
   location         : # Do I need this? 
   email            : noah@noahwright.dev
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:noah@noahwright.dev"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/noah-wright-dev/"
 #    - label: "Website"
 #      icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -139,6 +139,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/NoahWright87"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/noah-wright-dev/"
 #    - label: "GitLab"
 #      icon: "fab fa-fw fa-gitlab"
       # url:
