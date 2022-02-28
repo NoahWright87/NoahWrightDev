@@ -1,5 +1,6 @@
 ﻿---
-
+title: My First Blog Post
+subtitle: "AKA: Hello World, Blog Edition™"
 ---
 
 I’ve been listening to the Working Code podcast and really liked their suggestion to learn in public and use blogging 

@@ -1,5 +1,6 @@
 ﻿---
 title: Bus Factor 🚍
+subtitle: And why you should expect some unexpected losses
 ---
 
 Recently, my job lost an employee that was working on a project with me.  The work was pretty well split up - I was 

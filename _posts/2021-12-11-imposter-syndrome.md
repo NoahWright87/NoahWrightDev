@@ -1,5 +1,5 @@
 ﻿---
-
+subtitle: This blog article is probably terrible
 ---
 
 In a previous post I talked about starting the Google Foobar challenge.  *Great news*: I finished all five levels, and

@@ -1,5 +1,6 @@
 ﻿---
 title: Working From Home... With Children
+
 ---
 
 The kids have been home this week for Thanksgiving break, and the whole experience makes me wonder how we survived 2020.

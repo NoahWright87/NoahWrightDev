@@ -1,5 +1,5 @@
 ---
-
+subtitle: "AKA: We live in the future!"
 ---
 
 I've been saying I want a VR headset for a while now, but they have always seemed out of reach.  They all required a powerful gaming PC and were a ton of money for something that didn't have a lot of great games.  Then I started seeing (a lot of) ads for the Oculus Quest 2.  No computer needed, and it was around the cost of a Nintendo Switch.  It still seemed like a frivolous thing to spend money on, so I just talked about how cool it would be.  I never expected to get one on Christmas, but my wife could see the childlike wonder in my eyes when I talked about VR and she just couldn't help herself.

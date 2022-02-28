@@ -9,3 +9,6 @@ gem "jekyll-include-cache"
 gem "kramdown"
 gem "kramdown-parser-gfm"
 gem "webrick", "~> 1.7"
+group :jekyll_plugins do
+  gem "jekyll-archives"
+end

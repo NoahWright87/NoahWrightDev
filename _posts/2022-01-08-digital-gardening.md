@@ -1,5 +1,7 @@
 ---
-
+title: Digital Gardening
+subtitle: Hopefully a better approach than making a master design upfront
+tags: musings
 ---
 You can't *build* a garden.  You have to plant the seeds and let it grow naturally.  It is a slow, deliberate process that involves guiding that growth rather than strictly planning out a structure.  Hopefully, this website of mine is more like a garden than a construction project.
 
