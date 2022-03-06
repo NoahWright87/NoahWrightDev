@@ -1,7 +1,7 @@
 ﻿---
 title: Google, Here I Come!
 subtitle: 🎵 Movin' on up! 🎵
-tags: musings
+tags: career
 ---
 
 It's official: next month I'll be a Google employee! 😲  The story of how it happened is a little strange, so I'd like to share.

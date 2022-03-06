@@ -9,26 +9,44 @@ var screenWidth = 800;
 var screenHeight = 600;
 var colors = ["red", "orange", "yellow", "green", "blue", "purple"];
 
+var fps = 60;
+var waitTime = 1000 / fps;
+
+
 class Person {
 
     constructor(x, y) {
         this.x = x;
         this.y = y;
         this.radius = baseSize + Math.random() * varySize;
+        this.maskSize = 0 + Math.random() * 3;
+
+        this.timeBetweenTurns = 0 + Math.random() * 5000; //TODO: Make this customizable
+        this.timeUntilTurn = this.timeBetweenTurns;
 
         //Get random direction with some circle math
-        var angle = Math.random() * Math.PI * 2;
-        var speed = baseSpeed + Math.random() * varySpeed;
+        this.speed = baseSpeed + Math.random() * varySpeed;
 
-        this.velX = speed * Math.cos(angle);
-        this.velY = speed * Math.sin(angle);
+        this.changeDirection();
     
         this.state = Math.floor(Math.random() * colors.length);
         this.color = colors[this.state];
     }
 
+    changeDirection() {
+        this.angle = Math.random() * Math.PI * 2;
+
+        this.velX = this.speed * Math.cos(this.angle);
+        this.velY = this.speed * Math.sin(this.angle);
+    }
+
     update() {
-        //this.color = "black";
+        this.timeUntilTurn -= waitTime;
+        if (this.timeUntilTurn <= 0) {
+            this.changeDirection();
+            this.timeUntilTurn += this.timeBetweenTurns;
+        }
+
         this.x = (this.x + this.velX + screenWidth) % screenWidth;
         this.y = (this.y + this.velY + screenHeight) % screenHeight;
     }
@@ -63,6 +81,11 @@ class Person {
         context.arc(this.x, this.y, this.radius, 0, Math.PI * 2, true);
         context.fillStyle = this.color;
         context.fill();
+
+        context.beginPath();
+        context.arc(this.x, this.y, this.radius + this.maskSize, Math.PI, Math.PI * 2, true);
+        context.fillStyle = "black";
+        context.fill();
     }
 }
 
@@ -85,12 +108,12 @@ function loop() {
     update();
     checkCollisions();
     draw();
-    setTimeout(loop, 1);
+    setTimeout(loop, waitTime);
 }
 
 function update() {
     for (let i in people) {
-    people[i].update();
+        people[i].update();
     }
 }
 
@@ -106,7 +129,7 @@ function draw() {
     var canvas = document.getElementById('covidSim');
     if (canvas.getContext) {
         var ctx = canvas.getContext('2d');
-        ctx.fillStyle = 'rgba(255, 255, 255, 0.1)';
+        ctx.fillStyle = 'rgba(255, 255, 255, 0.5)';
         ctx.fillRect(0, 0, canvas.width, canvas.height);
 
         //ctx.fillStyle = 'rgb(200, 0, 0)';
