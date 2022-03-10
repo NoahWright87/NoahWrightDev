@@ -30,3 +30,4 @@ of success and failure, life advice, software horror stories, and updates about 
 Got an opportunity you'd like to discuss?  Want to give some feedback about the site?  By all means, [get in touch](/contact/).
 {: .text-justify}
 
+Want to know even more of my background?  Check out the [long version of my resume](/long-resume/).
