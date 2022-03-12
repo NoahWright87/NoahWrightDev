@@ -11,15 +11,6 @@ header:
           url: "/assets/files/NoahWrightResume.pdf"
         - label: "Contact Me"
           url: "/contact/"
-feature_blog:
-  - image_path: /assets/images/placeholder.png
-    alt: "placeholder image"
-    title: "Blog Posts"
-    excerpt: "My collection of <strike>rants</strike> thoughtful posts about life as a software engineer, lessons
-              learned, and little triumphs that I want to share with the world."
-    url: "/posts/"
-    btn_label: "View All Posts"
-    btn_class: "btn--primary"
 feature_projects:
   - image_path: /assets/images/placeholder.png
     alt: "placeholder image"
@@ -30,10 +21,36 @@ feature_projects:
     url: "/projects/"
     btn_label: "View All Projects"
     btn_class: "btn--primary"
+carousels:
+  - images:
+    - image: /assets/images/placeholder.png
+      title: Let's Make a Program
+      text: My other blog site, where I post tutorials for new programmers and my learning journey in new technologies.
+      linkUrl: http://letsmakeaprogram.com/
+      linkText: View the site
+    - image: /assets/images/placeholder.png
+      title: COVID Simulation
+      text: A little side-project I'm using to play with JavaScript and model the effect of masking, social distancing, etc.
+      linkUrl: /projects/covid/
+      linkText: Check it out
+    - image: /assets/images/placeholder.png
+      title: Games Done Wright
+      text: My itch.io page where I've posted a few little games I made in Unity
+      linkUrl: https://gamesdonewright.itch.io/
+      linkText: View on Itch.io
 classes: wide
 ---
 
-{% include feature_row id="feature_blog" type="left" %}
+<div class="feature__wrapper">
+  <h1>Recent Posts</h1>
+  {% for post in site.posts limit:2 %}
+    {% include archive-single.html type=entries_layout %}
+  {% endfor %}
+  <a href="/posts/" class="btn btn--primary">View All Posts</a>
+</div>
 
-{% include feature_row id="feature_projects" type="right" %}
-
+<div class="feature__wrapper">
+  <h1>Featured Projects</h1>
+  {% include carousel.html height="400" unit="px" duration="10" number="1" controlColor="#333"%}
+  <a href="/projects/" class="btn btn--primary">View All Projects</a>
+</div>
