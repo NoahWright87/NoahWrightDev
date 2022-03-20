@@ -1,6 +1,8 @@
 ---
 layout: categories
 permalink: /categories/
+title: Posts by Category
 ---
 
-# Categories
+[View by Date](/posts/){: .btn .btn--primary .btn--small}
+[View by Tag](/tags/){: .btn .btn--primary .btn--small}

@@ -23,17 +23,17 @@ feature_projects:
     btn_class: "btn--primary"
 carousels:
   - images:
-    - image: /assets/images/placeholder.png
+    - image: /assets/images/zoming_code.jpg
       title: Let's Make a Program
       text: My other blog site, where I post tutorials for new programmers and my learning journey in new technologies.
       linkUrl: http://letsmakeaprogram.com/
       linkText: View the site
-    - image: /assets/images/placeholder.png
+    - image: /assets/images/COVID19_Banner.jpg
       title: COVID Simulation
       text: A little side-project I'm using to play with JavaScript and model the effect of masking, social distancing, etc.
       linkUrl: /projects/covid/
       linkText: Check it out
-    - image: /assets/images/placeholder.png
+    - image: /assets/images/GamesDoneWrightLogo.png
       title: Games Done Wright
       text: My itch.io page where I've posted a few little games I made in Unity
       linkUrl: https://gamesdonewright.itch.io/
@@ -46,11 +46,13 @@ classes: wide
   {% for post in site.posts limit:2 %}
     {% include archive-single.html type=entries_layout %}
   {% endfor %}
-  <a href="/posts/" class="btn btn--primary">View All Posts</a>
+  <a href="/posts/" class="btn btn--primary">View by Date</a>
+  <a href="/tags/" class="btn btn--primary">View by Tag</a>
+  <!-- <a href="/categories/" class="btn btn--primary">View by Category</a> -->
 </div>
 
 <div class="feature__wrapper">
   <h1>Featured Projects</h1>
-  {% include carousel.html height="400" unit="px" duration="10" number="1" controlColor="#333"%}
+  {% include carousel.html height="400" unit="px" duration="10" number="1" %}
   <a href="/projects/" class="btn btn--primary">View All Projects</a>
 </div>

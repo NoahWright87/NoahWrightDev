@@ -31,12 +31,15 @@
           <ul>
             {% for item in page.carousels[number].images %}
             <!-- //TODO: Create options so image can be full, left, or right-anchored -->
+            <!-- //TODO: Make these color/size options configurable -->
             <li class="carousel__slide" style="background-image: url('{{ item.image }}');">
-                <h4>{{ item.title }}</h4>
-                <p>{{item.text}}</p>
+              <div style="background-color: rgba(32, 32, 32, 0.6); padding: 0px; height: 60%;">
+                <h2>{{ item.title }}</h2>
+                <p><strong>{{item.text}}</strong></p>
                 <p>
-                    <a class="btn btn-small btn--primary" href="{{ item.linkUrl }}">{{ item.linkText | "Check it out"}}</a>
+                  <a class="btn btn-small btn--primary" href="{{ item.linkUrl }}">{{ item.linkText | "Check it out"}}</a>
                 </p>
+              </div>
             </li>
             {% endfor %}
           </ul>

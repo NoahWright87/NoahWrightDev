@@ -1,5 +1,5 @@
 ﻿---
-
+teaser: "/assets/images/post-content/Office-Space-People-Skills.gif"
 ---
 
 🎄Merry Christmas 🎄!  *Full disclosure: no, I'm not writing a blog post instead of spending Christmas with my family.*
