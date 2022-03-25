@@ -47,8 +47,8 @@ This is an early work-in-progress, and so far all I have is some circles that ma
 It's fun to look at, but not very informative as an epidemic model.  Here are my plans:
 
 - Population simulation
-  - Create a random population
-  - Each will move in a random direction
+  - <strike>Create a random population</strike>
+  - <strike>Each will move in a random direction</strike>
   - Some will move faster than others, to simulate how "locked down" they are
   - Person's state can shift between Healthy, Vaccinated, Infected (sick), Infected (carrier), or Dead
   - Behavior may change depending on the above state, for example:
