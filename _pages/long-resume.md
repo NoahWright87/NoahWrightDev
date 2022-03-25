@@ -10,10 +10,16 @@ toc_sticky: true
 For the brief version, [download my resume](/assets/files/NoahWrightResume.pdf).  If you want more details, that's what this page is for.
 
 # Work History
-## Google | Mar 2022 - Present
+## Google
+March 2022 - Present
+{: .text-right}
+
 - *Just getting started, details to come!*
 
-## 689th Network Operations Squadron, USAF Reserves | Mar 2020 - Present
+## 689th Network Operations Squadron, USAF Reserves
+March 2020 - Present
+{: .text-right}
+
 > All that great Air Force taste with 90% less time on duty!  Plus, I still get to wear that sweet uniform. 😎
 
 I had gained so much from the Air Force in my 9 years of Active Duty, so I did not want to completely leave.  Thus, I half-quit by switching over to the Reserves.  This let me stick around where I met my wife but still reap some of the benefits of being an Airman.
@@ -22,11 +28,17 @@ Joining in 2020 made this an interesting experience to say the least, but I have
 
 Not to mention they still make me exercise.  If not for the mandatory PT tests, I guarantee that the COVID lockdown would have put an extra 50 pounds on me.  Instead it only added 20 which I then had to work back off. 😅
 
-## Sovereign Sportsman Solutions | May 2021 - Mar 2022
+## Sovereign Sportsman Solutions
+May 2021 - March 2022
+{: .text-right}
+
 - *Just left, I'll write up my story soon!*
 
-## CGI | March 2020 - May 2021
-> Ah 2020, a year when <strike>I'd get back to being a normal civilian</strike> the whole world was on fire holy crap what's happening!? 😧
+## CGI
+March 2020 - May 2021
+{: .text-right}
+
+> 2020, a year when <strike>I'd get back to being a normal civilian</strike> the whole world was on fire holy crap what's happening!? 😧
 
 Concerned with what Active Duty meant (i.e.: having to uproot my family and move across the country randomly, getting selected to do something other than program), I decided to transfer from Active Duty into the Reserves.  I got a civilian programming job, and I was all set for an exciting new time in my life.
 
@@ -40,7 +52,10 @@ The system I worked on involved one monolith and a bunch of microservices, all w
 
 This is also where I got to work with a true CI/CD pipeline.  No more manually logging into a server to run an installer like I did in the Air Force - here I just committed code and BOOM off it went.  Now I'm spoiled and can never go back to the old ways.  The military loved the word agile, but this job is where I got to see truly agile development at work.  We got a lot done really quickly thanks to some well-managed structure.
 
-## Airman Leadership School, USAF | Mar 2016 - Feb 2020
+## Airman Leadership School, USAF
+March 2016 - February 2020
+{: .text-right}
+
 > That introverted programmer?  Of course that's who should be our next instructor, because the Air Force loves a "well-rounded Airman"
 
 Switching jobs in the military is common.  Sometimes it is voluntary, sometimes you are "voluntold".  This one was a bit of a mixture.  Because of my experience of helping in the classroom of tech school, I expressed interest to my unit's leadership about becoming an instructor.  They must have seen potential in me, because they submitted my name to become an instructor... *of a non-technical course*.
@@ -49,7 +64,10 @@ This was nothing like teaching programming.  The curriculum involved public spea
 
 Like or not, I paddled myself right out of there and learned to enjoy the job.  I never stopped being nervous, and I always felt drained by the end of the day, but I got used to talking in front of a classroom full of strangers.  I met a lot of cool people and learned more about parts of the Air Force that weren't an office full of programmers.  I leanred all sorts of intangible and hard-to-measure skills that have been a huge benefit to me and my career, and I'm glad my unit saw the potential in me and selected me to be an instructor.
 
-## Air University HQ, USAF | Dec 2011 - Feb 2016
+## Air University HQ, USAF
+December 2011 - February 2016
+{: .text-right}
+
 > My first programming team - even if it was a one-man team half the time.
 
 A lot of civilians don't know this, but the Air Force actually has a lot of schools.  Several of them are on Maxwell AFB.  While there, I worked on code for Air Command and Staff College, Air War College, and a couple other schools located on-base.  This was my first time working on a web-based system - specifically ASP.NET pages with a C# backend.
@@ -58,7 +76,10 @@ It was your usual collection of CRUD pages, along with some behind-the-scenes jo
 
 Eventually more Airmen were added to the project, so I ended up training them on the system and leading the programming efforts.  It was a huge step up in responsibility from what I did at my previous job, but it was a great lesson in how to work on a team of developers and not be a lone cowboy coder.
 
-## Basic &amp; Tech Training, USAF | May 2011 - Dec 2011
+## Basic &amp; Tech Training, USAF
+May 2011 - December 2011
+{: .text-right}
+
 > Kind of like the first part of Full Metal Jacket, except not at all.
 
 There is nothing like spending two months in the Texas summer to lose a ton of weight.  There's also nothing quite like getting yelled at on a daily basis to make you become a louder person.
@@ -67,7 +88,10 @@ This was the first step of my military journey, and was a great course correctio
 
 Tech school was at Keesler AFB, near Biloxi, Mississippi.  I went from dry heat to basically a big sauna.  As one of the few Airmen with any prior programming experience, this was my first taste of being instructor.  The actual instructor helped one half of the room while I helped the other, and I found out that I was halfway decent at explaining code to people who were unfamiliar with it.  Spoiler alert: this wouldn't be the last time I taught people in a classroom.
 
-## Art Clem Enterprises | Jul 2008 - May 2011
+## Art Clem Enterprises
+July 2008 - May 2011
+{: .text-right}
+
 > My first software job, that I got by programming myself out of the job I was actually hired to do.
 
 I was hired through a temp agency to help this online retailer during the rush of the holiday season.  My first major responsibility was to check the shipping prices for each package manually to determine whether the USPS or UPS was cheaper.  I did this for 8 hours each day, and thought *a computer could do this* the whole time.  So I made a computer do it.
@@ -78,7 +102,10 @@ This continued until I had re-written and improved basically every aspect of the
 
 Feeling the impact of my work that directly was probably the coolest thing about the job, and I am glad to have started my career in such a small, tight-knit place.
 
-## A Series of Little Jobs | High school graduation - Jul 2008
+## A Series of Little Jobs
+High school graduation - July 2008
+{: .text-right}
+
 > Because everybody needs a gap year or two... or three 😬
 
 My early adulthood was dominated by a rough marriage.  We moved around as a result of family drama and it made it hard to settle into a consistent job.  I did a smattering of odd jobs - fast food, technical support, and even one job where I helped repair circuit boards for arcade cabinets.  It was a strange time, but that period of life has helped me appreciate the things I have now.  It is also full of cautionary tales I tell my children so (hopefully) they don't wind up having an aimless early adulthood or a shaky relationship that stops them from pursuing their goals.

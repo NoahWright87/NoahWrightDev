@@ -2,13 +2,15 @@
 title: Google, Here I Come!
 subtitle: 🎵 Movin' on up! 🎵
 tags: career
+excerpt: "It's official: next month I'll be a Google employee! 😲  The story of how it happened is a little strange, so I'd like to share."
 ---
+{% include affiliate-header.html %}
 
 It's official: next month I'll be a Google employee! 😲  The story of how it happened is a little strange, so I'd like to share.
 
-A few months ago, I wrote a [post about Google Foobar](/google-foobar/) in which I casually mentioned that passing 3 of the 5 levels of that challenge gave you an opportunity to send your resume in to a Google recruiter.  I wasn't looking to change jobs but I thought *what's the harm* and submitted my information.  Googling (*oh, the irony*) for info about the Foobar challenge, I found plenty of people who assured everyone that "nobody gets hired through Google Foobar anymore - don't even bother," so I went about my business like nothing had happened.
+A few months ago, I wrote a [post about Google Foobar](/google-foobar/) in which I casually mentioned that passing 3 of the 5 levels of that challenge gave you an opportunity to send your resume in to a Google recruiter.  I wasn't looking to change jobs but thought "*what's the harm*", and submitted my information.  Googling (*oh, the irony*) for info about the Foobar challenge, I found plenty of people who assured everyone that "nobody gets hired through Google Foobar anymore - don't even bother," so I went about my business like nothing had happened.
 
-About a month later, I got an email from a Google recruiter.  *No way, the internet told me this doesn't happen, and the internet __never__ lies!*  Sure enough, the recruiter had gotten my resume via Google Foobar and was reaching out to set up interviews.  I immediately ordered a copy of [Cracking the Coding Interview](https://amzn.to/36RqSi1){:target="_blank"} like everybody suggests and starting preparing.  As my [December post about imposter syndrome](/imposter-syndrome/) laid out - I felt *very* ill-prepared.  The amount of information everybody tells you to memorize was completely overwhelming.  The stories on the internet of people applying dozens of times and failing to get in had me in a very defeatist mood.
+About a month later, I got an email from a Google recruiter.  *No way, the internet told me this doesn't happen, and the internet __never__ lies!*  Sure enough, the recruiter had gotten my resume via Google Foobar and was reaching out to set up interviews.  I immediately ordered a copy of [Cracking the Coding Interview](https://amzn.to/36RqSi1){:target="_blank"} {% include affiliate-notice.html %} like everybody suggests and starting preparing.  As my [December post about imposter syndrome](/imposter-syndrome/) laid out - I felt *very* ill-prepared.  The amount of information everybody tells you to memorize was completely overwhelming.  The stories on the internet of people applying dozens of times and failing to get in had me in a very defeatist mood.
 
 **Thank God for my wife**
 
