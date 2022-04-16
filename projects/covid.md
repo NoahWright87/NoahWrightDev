@@ -2,6 +2,7 @@
 title: COVID-19 Simulation
 head_scripts:
   - assets/js/projects/covid.js
+published: false
 ---
 
 <style>

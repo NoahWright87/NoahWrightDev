@@ -62,7 +62,7 @@ Switching jobs in the military is common.  Sometimes it is voluntary, sometimes 
 
 This was nothing like teaching programming.  The curriculum involved public speaking, motivating teams, managing conflict, commanding a marching flight, leading physical fitness sessions, formal writing - all kinds of non-technical subjects that I felt ill-equipped to do, much less teach.  But a funny thing happens when you're thrown into the deep end: either you drown, or you learn to swim.
 
-Like or not, I paddled myself right out of there and learned to enjoy the job.  I never stopped being nervous, and I always felt drained by the end of the day, but I got used to talking in front of a classroom full of strangers.  I met a lot of cool people and learned more about parts of the Air Force that weren't an office full of programmers.  I leanred all sorts of intangible and hard-to-measure skills that have been a huge benefit to me and my career, and I'm glad my unit saw the potential in me and selected me to be an instructor.
+Like or not, I paddled myself right out of there and learned to enjoy the job.  I never stopped being nervous, and I always felt drained by the end of the day, but I got used to talking in front of a classroom full of strangers.  I met a lot of cool people and learned more about parts of the Air Force that weren't an office full of programmers.  I learned all sorts of intangible and hard-to-measure skills that have been a huge benefit to me and my career, and I'm glad my unit saw the potential in me and selected me to be an instructor.
 
 ## Air University HQ, USAF
 December 2011 - February 2016

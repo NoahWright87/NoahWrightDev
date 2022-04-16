@@ -4,7 +4,7 @@ permalink: /projects/
 title: "Projects"
 # Full Projects
 feature_lul:
-  - image_path: /assets/images/zoming_code.jpg
+  - image_path: /assets/images/zooming_code.jpg
     #image_caption: ""
     title: "Level Up Learning"
     alt: "placeholder image"
@@ -13,7 +13,7 @@ feature_lul:
     btn_label: "View on GitHub"
     btn_class: "btn--primary"
 feature_lmap:
-  - image_path: /assets/images/zoming_code.jpg
+  - image_path: /assets/images/zooming_code.jpg
     #image_caption: ""
     title: "Let's Make a Program"
     alt: "placeholder image"
@@ -31,15 +31,15 @@ feature_gdw:
     btn_label: "View on Itch.io"
     btn_class: "btn--primary"
 # Mini Projects
-feature_covid:
-  - image_path: /assets/images/COVID19_Banner.jpg
-    #image_caption: ""
-    title: "COVID Sim"
-    alt: "placeholder image"
-    excerpt: "A work-in-progress simulation about infection, social distancing, and masks."
-    url: "/projects/covid/"
-    btn_label: "Check it out"
-    btn_class: "btn--primary"
+# feature_covid:
+#   - image_path: /assets/images/COVID19_Banner.jpg
+#     #image_caption: ""
+#     title: "COVID Sim"
+#     alt: "placeholder image"
+#     excerpt: "A work-in-progress simulation about infection, social distancing, and masks."
+#     url: "/projects/covid/"
+#     btn_label: "Check it out"
+#     btn_class: "btn--primary"
 classes: wide
 ---
 
@@ -51,8 +51,8 @@ Like many software engineers, I like to relax after a hard day's work of program
 
 {% include feature_row id="feature_gdw" type="left" %}
 
-## Mini-Projects
+<!-- ## Mini-Projects
 This is a spot for little things that I have played around with in order to try something new.
 They don't have another proper place, so they live here on my dev site.
 
-{% include feature_row id="feature_covid" type="left" %}
+{% include feature_row id="feature_covid" type="left" %} -->
