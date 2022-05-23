@@ -92,5 +92,4 @@ Working from home was a huge change for me, but it has overall been a great expe
 
 ___
 ## Reference
-[^1]:"ref1"
-- https://www.cnbc.com/2019/03/20/stanford-study-longer-hours-doesnt-make-you-more-productive-heres-how-to-get-more-done-by-doing-less.html 
+[^1]: [CNBC article featuring Stanford study](https://www.cnbc.com/2019/03/20/stanford-study-longer-hours-doesnt-make-you-more-productive-heres-how-to-get-more-done-by-doing-less.html)
