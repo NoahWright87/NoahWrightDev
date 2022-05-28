@@ -10,7 +10,7 @@ header:
 tags: learning
 toc: true
 toc_sticky: true
-published: false
+published: true
 ---
 
 > TL;DR:
