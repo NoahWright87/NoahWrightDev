@@ -2,12 +2,12 @@
 title: "Things College Didn't Teach You"
 subtitle: "Because most jobs don't involve one dev making a calculator"
 tagline: "Because most jobs don't involve one dev making a calculator"
-excerpt: 
+excerpt: "A CS degree is a great foundation on which to build a career.  The problem is that you can't simulate the conditions of a work environment"
 header:
     teaser: "/assets/images/post-content/textbooks.jpg"
     overlay_image: "/assets/images/post-content/textbooks.jpg"
     overlay_filter: 0.5
-tags: career, learning
+tags: career learning
 toc: true
 toc_sticky: true
 ---

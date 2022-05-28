@@ -1,6 +1,7 @@
 ---
 title: Great Leaders are NOT Perfect
 subtitle: "or: How I Learned to Stop Worrying and Love Mistakes"
+excerpt: "When somebody refuses to admit their mistakes, it erodes trust in that person...  When a leader shifts blame to the people around them, it drives a wedge between them and their subordinates."
 ---
 
 From 2016 to 2020 I was an instructor at the Airman Leadership School (ALS) on Maxwell Air Force Base.  There was a core curriculum I had to teach, but a lot of the most powerful lessons came from the students swapping stories.  ALS is a prerequisite to gaining the rank of Staff Sergeant and becoming a supervisor, so none of these students had led a team before.  What they ended up sharing were stories about their existing leaders.

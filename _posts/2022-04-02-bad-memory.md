@@ -2,7 +2,7 @@
 title: "The benefits of bad memory"
 subtitle: "How my biggest weakness developed my good habits"
 tagline: "How my biggest weakness developed my good habits"
-excerpt: "As a person with terrible memory, I have spent my whole life figuring out ways to keep things straight in my head.  Over time, I've developed habits that compensate for my forgetfulness."
+excerpt: "I have spent my whole life figuring out ways to keep things straight in my head.  Over time, I've developed habits that compensate for my forgetfulness."
 header:
     teaser: "/assets/images/post-content/do-not-forget-sticky-note.jpg"
     overlay_image: "/assets/images/post-content/do-not-forget-sticky-note.jpg"

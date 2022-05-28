@@ -2,12 +2,12 @@
 title: "Working Remotely"
 subtitle: "And what you can do to make it better"
 tagline: "And what you can do to make it better"
-excerpt: 
+excerpt: "My early days of remote work were a struggle, but I learned some lessons that I'd like to share."
 header:
     teaser: "/assets/images/post-content/remote-work.jpg"
     overlay_image: "/assets/images/post-content/remote-work.jpg"
     overlay_filter: 0.5
-tags: career, productivity
+tags: career productivity
 toc: true
 toc_sticky: true
 ---
