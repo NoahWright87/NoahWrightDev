@@ -13,16 +13,6 @@ toc_sticky: true
 published: true
 ---
 
-//TODO:
-- Been at Google a little while now and it has taken some getting used to programming inside of a browser
-- Weirdly enough, I'm coding *this* in a browser right now.  Talk about how you can hit `.` or change the .com to .dev in GitHub to edit pages in an online VS Code editor
-- Compare to my behemoth gaming laptop, which is what I've always tried to buy
-- Future plan: get a RIDICULOUSLY POWERFUL desktop and a RIDICULOUSLY LIGHTWEIGHT laptop.  I can then:
-    - Edit small stuff like this in the browser
-    - Remote into desktop for heavier programming tasks
-    - Still play Steam, etc on my TV / phone / thin laptop
-
-
 When I started at Google, they gave me my assigned laptop and I was shocked to find out it was, *gasp*, a Chromebook!?  For a software engineer position?  How would that even work?  Well, let me tell you...
 
 > TL;DR:

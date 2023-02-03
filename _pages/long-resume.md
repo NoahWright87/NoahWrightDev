@@ -10,7 +10,7 @@ toc_sticky: true
 > *For a more compact version, [download my resume](/assets/files/NoahWrightResume.pdf).*
 
 ## Work History
-### <img src="../assets/images/logos/Google_G_Logo.svg" height="30"> Google
+### <img src="../assets/images/logos/Google_G_Logo.svg" width="30px" height="30px"> Google
 March 2022 - March 2023
 {: .text-right}
 
@@ -18,7 +18,7 @@ March 2022 - March 2023
 > - Implemented secure proxy for gRPC calls. Wrote Java code for backend microservices.
 > - Led documentation and code health effort. Improved onboarding/on-call docs and fixed flaky tests.
 
-### <img src="../assets/images/logos/USAF_Logo.svg" height="30"> 689th Network Operations Squadron, USAF Reserves
+### <img src="../assets/images/logos/USAF_Logo.svg" width="30px" height="30px"> 689th Network Operations Squadron, USAF Reserves
 March 2020 - May 2022
 {: .text-right}
 
@@ -26,14 +26,14 @@ March 2020 - May 2022
 > - Trained unit on using Splunk to investigate threats. Created script to automate creation of queries.
 > - Mentored three direct reports. Wrote performance reviews, and reported issues to leadership.
 
-### <img src="../assets/images/logos/S3_Logo.webp" height="30"> Sovereign Sportsman Solutions
+### <img src="../assets/images/logos/S3_Logo.webp" width="30px" height="30px"> Sovereign Sportsman Solutions
 May 2021 - March 2022
 {: .text-right}
 
 > - Built .NET MVC sites for state governments. Utilized Entity Framework, Kendo UI, Vue, MS SQL Server
 > - Led full-stack development for new feature. Gathered requirements, designed DB schema, wrote CRUD pages
 
-### <img src="../assets/images/logos/CGI_logo.svg" height="30"> CGI
+### <img src="../assets/images/logos/CGI_logo.svg" width="30px" height="30px"> CGI
 March 2020 - May 2021
 {: .text-right}
 
@@ -42,7 +42,7 @@ March 2020 - May 2021
 > - Refactored legacy service to implement DI & automated testing. Increased code coverage from 0% to 70% in one sprint.
 
 
-### <img src="../assets/images/logos/USAF_Logo.svg" height="30"> Airman Leadership School, USAF
+### <img src="../assets/images/logos/USAF_Logo.svg" width="30px" height="30px"> Airman Leadership School, USAF
 March 2016 - February 2020
 {: .text-right}
 
@@ -50,7 +50,7 @@ March 2016 - February 2020
 > - Integrated PayPal checkout, enabling 2K reservations worth over $52K. Drove paperless effort, eliminating 90% of printed material.
 > - Pioneered new curriculum and learning management system. Instructed hundreds of Airmen in military leadership.
 
-### <img src="../assets/images/logos/USAF_Logo.svg" height="30"> Air University HQ, USAF
+### <img src="../assets/images/logos/USAF_Logo.svg" width="30px" height="30px"> Air University HQ, USAF
 December 2011 - February 2016
 {: .text-right}
 
@@ -58,7 +58,7 @@ December 2011 - February 2016
 > - Rewrote legacy code to be multithreaded. Sped one process by 99%, reducing runtime from 2 hours to 1 minute.
 > - Upgraded legacy ASP.NET web app from deprecated API. Resolved dozens of dependency issues, prevented outage.
 
-### <img src="../assets/images/logos/USAF_Logo.svg" height="30"> Basic Training &amp; Tech School, USAF
+### <img src="../assets/images/logos/USAF_Logo.svg" width="30px" height="30px"> Basic Training &amp; Tech School, USAF
 May 2011 - December 2011
 {: .text-right}
 
