@@ -10,17 +10,16 @@ header:
 tags: learning
 toc: true
 toc_sticky: true
-published: true
 ---
+
+*"How did you get into programming?  Where should I start?  What's the best way to learn?"*
+
+I get these questions *all the time*.  For a long time, I didn't have a great answer.  I got started roughly 20 years ago - not only do I not remember exactly how it went, a lot has changed since then.  Since people keep asking, I took some time to write out some advice for those who are trying to get into programming. 
 
 > TL;DR:
 > - Get started.  Taking that first step and doing *anything* is more important than having a perfect plan.
 > - Find something you *want* to make.  This will keep you motivated to keep going.
 > - Tackle your project in tiny little chunks and don't get hung up on what's going on under the hood.
-
-*"How did you get into programming?  Where should I start?  What's the best way to learn?"*
-
-I get these questions *all the time*.  For a long time, I didn't have a great answer.  I got started roughly 20 years ago - not only do I not remember exactly how it went, a lot has changed since then.  Since people keep asking, I took some time to write out some advice for those who are trying to get into programming. 
 
 ## Get started!
 

@@ -10,7 +10,6 @@ tagline: "A surprisingly pleasant experience"
 # tags: a, b, c
 toc: true
 toc_sticky: true
-published: true
 ---
 
 When I started at Google, they gave me my assigned laptop and I was shocked to find out it was, *gasp*, a Chromebook!?  For a software engineer position?  How would that even work?  Well, let me tell you...
@@ -18,7 +17,7 @@ When I started at Google, they gave me my assigned laptop and I was shocked to f
 > TL;DR:
 > - I do all my work at Google on a Chromebook, and it has worked surprisingly well.
 > - Have a GitHub repo?  Hit `.` on your keyboard to edit in your browser.
-> - Thanks to Chrome Remote Desktop, I'll never need a heavy laptop again!
+> - Thanks to [Chrome Remote Desktop](https://remotedesktop.google.com/), I'll never need a heavy laptop again!
 
 ## ☁ Coding in the cloud
 
@@ -36,7 +35,7 @@ Simply go to https://g.co/crd/setup from the computer you want to access remotel
 
 If I want to do development that won't work in the browser (game development in Unity, for example), I remote into my powerful desktop from my lightweight Chromebook.  Never again will I need a big, heavy gaming laptop to do development on the go -- instead I can save money by having a tricked out desktop and a super lightweight Chromebook.
 
-## What about games?
+## 🎮 What about games?
 
 Unfortunately, Chrome Remote Desktop is *__not__ good for gaming*!  Things are responsive enough for programming and general computer use, but it was clearly not meant for running games.  For that, you'll want to look into Steam Link or Moonlight -- they take a little more to set up, but they'll let you play games remotely just fine.  It's important to note that the computer streaming the games should be hard-wired for best performance.  If you're like me and have a big desktop sitting next to your router, this shouldn't be a problem.
 
